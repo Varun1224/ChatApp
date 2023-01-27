@@ -1,7 +1,8 @@
 <?php
   $hostname = "localhost";
   $username = "root";
-  $password = "varunjain247Code"; // don't forget to give password here before pushing it to the machine
+  $password = "varunjain247Code";     // for production
+  // $password = "";    // for localhost
   $dbname = "chatapp";
 
   $conn = mysqli_connect($hostname, $username, $password, $dbname);
