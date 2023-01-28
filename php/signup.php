@@ -43,6 +43,8 @@
                                 }else{
                                     echo "Something went wrong. Please try again!";
                                 }
+                            } else {
+                                echo "Something went wrong. Please try again later!";
                             }
                         }else{
                             echo "Please upload an image file - jpeg, png, jpg";

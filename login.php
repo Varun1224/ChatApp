@@ -29,8 +29,8 @@
     </section>
   </div>
   
-  <script src="javascript/pass-show-hide.js"></script>
-  <script src="javascript/login.js"></script>
+  <script src="pass-show-hide.js"></script>
+  <script src="login.js"></script>
 
 </body>
 </html>
